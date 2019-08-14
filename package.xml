@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>ecommerceoffice_bestsellers</name>
+    <version>1.1.5</version>
+    <stability>stable</stability>
+    <license>OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Extension shows store bestsellers, simple and effective!</summary>
+    <description>Magento module generates the list of your online store's best selling products and displays it in sidebars. Extension allows you fully configure your bestsellers on your store and of cource this extension fully configurable at backend.</description>
+    <notes>1.1.5</notes>
+    <authors><author><name>volgodark</name><user>volgodark</user><email>volgodark@gmail.com</email></author></authors>
+    <date>2013-11-15</date>
+    <time>16:25:52</time>
+    <contents><target name="magecommunity"><dir name="Ecommerceoffice"><dir name="Easytopsell"><dir name="Block"><file name="Category.php" hash="f7cd630e469ef1303d18a9be8c480de9"/><file name="Home.php" hash="f9bf66ba4e59f5260e95213588dcce71"/><dir name="Page"><dir name="Html"><file name="Footer.php" hash="71d16530f9c55bf527108218c32c220b"/></dir></dir></dir><dir name="Helper"><file name="Data.php" hash="47333cb440aea13d175d2e633d333286"/></dir><dir name="Model"><file name="Data.php" hash="f503f2e149916f80ce9b61560438d712"/></dir><dir name="etc"><file name="config.xml" hash="f2660bfe8151552e99b59a68f71a7100"/><file name="system.xml" hash="814fb83892a9e40d4a11c7d15881be48"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="template"><dir name="ecommerceoffice"><dir name="easytopsell"><file name="category_left.phtml" hash="ead970358d0bd290f9988b29f9223358"/><file name="category_right.phtml" hash="b9d6c0fa0ca1c90e7e1c718bf6a85585"/><file name="home_left.phtml" hash="61dc918622648895e40ee2a4964bedbd"/><file name="home_right.phtml" hash="e02e45c55673e6b38c06189b69264576"/></dir></dir></dir><dir name="layout"><file name="ecommerceoffice_easytopsell.xml" hash="936fbcc1b142f45f52061f5a741efd42"/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Ecommerceoffice_Easytopsell.xml" hash="6def68215b4707d91e181b5ecefe0206"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
