@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/ecommerceoffice_bestsellers",
+    "name": "openmage-module-fostering\/ecommerceoffice_bestsellers",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Extension shows store bestsellers, simple and effective!",
     "authors": [
